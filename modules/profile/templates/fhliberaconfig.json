@@ -9,8 +9,7 @@
          "834803116293619803":"#fosshost-incident",
          "834802993232478248":"#fosshost-social",
          "788819267511910440":"#fosshost-volunteers",
-         "820914556418916382":"#fosshost-exec",
-         "790588749586104340":"#fosshost-engine"
+         "820914556418916382":"#fosshost-exec"
       },
       "commandCharacters":[
          ".",
@@ -24,8 +23,7 @@
             "#fosshost-incident",
             "#fosshost-social",
             "#fosshost-volunteers",
-            "#fosshost-exec",
-            "#fosshost-engine"
+            "#fosshost-exec"
          ],
          "debug":false,
          "port":"7070",
